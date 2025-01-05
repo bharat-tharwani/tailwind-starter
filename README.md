@@ -74,6 +74,7 @@ project-root/
 │   └── input.css
 ├── css/
 │   └── output.css
+├── index.html
 ├── tailwind.config.js
 ├── package.json
 └── node_modules/
